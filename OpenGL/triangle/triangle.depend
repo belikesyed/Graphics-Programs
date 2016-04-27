@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459420997 source:f:\semester-wise\6th semester-2016\computer graphics\lab\triangle\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1262791248 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1459423601 source:f:\semester-wise\6th semester-2016\computer graphics\lab\opengl\triangle\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+

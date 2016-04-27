@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1455559782 source:f:\semester-wise\6th semester-2016\computer graphics\lab\polycolor\main.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1454583148 f:\semester-wise\6th semester-2016\computer graphics\assignment\mainfn\shapes.h
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+

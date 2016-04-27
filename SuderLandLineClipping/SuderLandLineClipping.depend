@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1457202731 source:f:\semester-wise\6th semester-2016\computer graphics\lab\suderlandlineclipping\main.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

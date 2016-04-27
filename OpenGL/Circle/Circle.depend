@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1460353848 source:f:\semester-wise\6th semester-2016\computer graphics\lab\opengl\circle\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
+1262791248 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

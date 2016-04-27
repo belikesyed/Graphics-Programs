@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1460707224 source:f:\semester-wise\6th semester-2016\computer graphics\lab\opengl\seedfill\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1262791248 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
